@@ -65,8 +65,7 @@ The test for the classes are in the [test_models](./tests/test_models/) folder.
 
 ## Authors
 
-- **Mary Kiige** ~ [mkiige77@gmail.com](https://github.com/Mkiige) : 
+- **ilias elmahi** ~ [ilyasserahmawi@gmail.com](https://github.com/Ielmahi) : 
 
-- **Nick Gitobu** - [silvernicks9@gmail.com](https://github.com/nickssilver) ~ [@pronic_tech](https://twitter.com/pronic_tech):
 
 <img align="center" src="img/unnamed.png" alt="footer" width="150"  height="150"/>
